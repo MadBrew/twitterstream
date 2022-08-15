@@ -5,7 +5,7 @@ The console app consumes the streaming API and batches the data to Azure Event H
 can be accessed in a non-blocking way by other APIs.
 
 # Demo
-I can demo this app live and show the Event Hub setip in Azure where I use Azure Stream Queries
+I can demo this app live and show the Event Hub setup in Azure where I use Azure Stream Queries
 to aggregate hashtags. Another service (thus employing a decoupled microservice architecture)
 would be developed to process the data that would be stored by these queries.
 
